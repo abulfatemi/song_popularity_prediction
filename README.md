@@ -1,5 +1,5 @@
 # song_popularity_prediction
-Predicting song popularity on Spotify using a neural network involves leveraging various features of songs to train a model that can accurately forecast how popular a song might become
+Predicting song popularity on Spotify using a neural network by leveraging various features of songs to train a model that can accurately forecast how popular a song might become.
 In the dataset, rows with null values are removed.
 Important features used to predict song popularity were divided into two categories: numerical and categorical columns.
 Numerical features are 'danceability', 'energy', 'key', 'loudness', 'mode','speechiness', 'acousticness', 'instrumentalness','liveness', 'valence', 'tempo', 'duration_ms'
